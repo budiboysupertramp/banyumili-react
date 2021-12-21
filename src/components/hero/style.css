@@ -1,0 +1,26 @@
+
+.hero-left{
+    width: 40%;
+    padding: 150px 50px 90px 100px;
+}
+
+.title-hero{
+    font-family: 'Roboto', sans-serif;
+    line-height: 60px;
+    font-size: 3rem;
+}
+
+.title-content {
+    font-size: 1rem;
+}
+
+
+.hero-right {
+    width: 60%;
+    background-image: url("../../assets/images/building.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -200px;
+    border-radius: 0 0 0 60px;
+    /* z-index: -99; */
+}

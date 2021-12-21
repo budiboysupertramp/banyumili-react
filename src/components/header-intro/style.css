@@ -1,0 +1,21 @@
+.header-intro-card .header-intro-card-content {
+    border-radius: 40px;
+    padding: 60px 30px;
+    box-shadow: 20px 20px 4px rgba(0, 0, 0, 0.25);
+    margin: -240px auto 0 auto;
+    text-align: center;
+    width: 60%;
+    background-color: #ffffff;
+}
+
+.header-intro-card .header-intro-card-content .header-title {
+    font-size: 42px;
+}
+
+.header-intro-card .header-intro-card-content .header-name {
+    font-family: 'Merriweather', serif;
+}
+
+.header-card .header-card-content .header-paragraph {
+    
+}

@@ -1,0 +1,12 @@
+.section-title .section-title-text {
+    color: var(--bs-white);
+}
+
+.section-title .divider {
+    width: 150px;
+    height: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    background-color: var(--bs-warning);
+}
