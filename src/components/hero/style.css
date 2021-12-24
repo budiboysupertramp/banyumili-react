@@ -17,10 +17,13 @@
 
 .hero-right {
     width: 60%;
-    background-image: url("../../assets/images/building.jpg");
+    background-image: linear-gradient(
+        to right, rgba(0, 0, 0, 0), 
+        rgba(0, 0, 0, 0)), 
+        url("../../assets/images/hero/bg6-comp.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 0px -200px;
+    /* background-position: 0px 100px; */
     border-radius: 0 0 0 60px;
     /* z-index: -99; */
 }

@@ -1,4 +1,4 @@
-.header-intro-card .header-intro-card-content {
+.header-intro-inner-card .header-intro-inner-card-content {
     border-radius: 40px;
     padding: 60px 30px;
     box-shadow: 20px 20px 4px rgba(0, 0, 0, 0.25);
@@ -8,14 +8,14 @@
     background-color: #ffffff;
 }
 
-.header-intro-card .header-intro-card-content .header-title {
+.header-intro-inner-card .header-intro-inner-card-content .header-title {
     font-size: 1.75rem;
 }
 
-.header-intro-card .header-intro-card-content .header-name {
+.header-intro-inner-card .header-intro-inner-card-content .header-name {
     font-size: 2.5rem;
 }
 
-.header-intro-card .header-intro-card-content .header-paragraph {
+.header-intro-inner-card .header-intro-inner-card-content .header-paragraph {
     font-family: 'Merriweather', serif;
 }

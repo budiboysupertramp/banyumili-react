@@ -1,0 +1,22 @@
+.testimonial-list {
+    position: relative;
+    padding: 90px 0;
+    align-items: center;
+}
+
+.testimonial-list .element-background {
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    z-index: -99;
+}
+
+.testimonial-list .element-background .element-background-color {
+    position: relative;
+    background:  linear-gradient(to right, rgba(11, 75, 194, 0.65), rgba(45, 200, 218, 0.726));
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    border-radius: 30px;
+}

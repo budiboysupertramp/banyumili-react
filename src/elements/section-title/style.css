@@ -1,5 +1,13 @@
 .section-title .section-title-text {
+    font-size: 2.5rem;
+}
+
+.section-title .section-title-light {
     color: var(--bs-white);
+}
+
+.section-title .section-title-dark {
+    color: var(--bs-gray-900);
 }
 
 .section-title .divider {

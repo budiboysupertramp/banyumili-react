@@ -1,0 +1,25 @@
+.footer{
+    margin-top: 90px;
+    background-color: var(--bs-gray-900) ;
+    border-radius: 40px 40px 0 0;
+}
+
+.menu-footer-title {
+    color: #b6b6b6;
+}
+
+.title-footer{
+    line-height: 5px;
+    margin: 30px 0;
+}
+
+.img-footer .logo-footer{
+    width: 20vw;
+    /* background: seashell; */
+    border-radius: 10px 0 10px;
+}
+
+.copyright-container .copyright-text {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}

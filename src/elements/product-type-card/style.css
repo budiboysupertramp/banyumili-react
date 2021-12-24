@@ -1,0 +1,25 @@
+.property-type {
+    margin-top: 90px;
+    /* background-color:  #194dfa77; */
+    background-image:  linear-gradient(to right, rgba(11, 75, 194, 0.65), rgba(45, 200, 218, 0.726));
+    padding: 80px 30px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.property-type .property-type-card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 40px;
+    transition-duration: .5s;
+    height: 100%;
+}
+
+.property-type .property-type-card:hover {
+    background-color: var(--bs-warning);
+    color: var(--bs-white);
+}
+
+.property-type .property-type-card .icon-property {
+    font-size: 5rem;
+}
